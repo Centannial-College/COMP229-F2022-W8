@@ -1,0 +1,24 @@
+{
+  "name": "comp229-f2022-w8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Centannial-College/COMP229-F2022-W8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Centannial-College/COMP229-F2022-W8/issues"
+  },
+  "homepage": "https://github.com/Centannial-College/COMP229-F2022-W8#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1"
+  }
+}
